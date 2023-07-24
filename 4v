@@ -10,7 +10,7 @@
       "Name": "Shambala | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "www.sshbrplus.ml",
+      "ServerIP": "191.37.149.104",
       "CheckUser": "http://www.sshbrplus.ml:6880/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
