@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "Servidor corrigido!",
   "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
   "UrlContato": "https://wa.me/5513996005940",
@@ -10,8 +10,8 @@
       "Name": "Shambala | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "191.37.149.104",
-      "CheckUser": "http://www.sshbrplus.ml:6880/checkUser",
+      "ServerIP": "sshbrplus.online",
+      "CheckUser": "http://www.sshbrplus.online:6880/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
