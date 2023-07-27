@@ -1,5 +1,5 @@
 {
-    "Version": "7.6",
+    "Version": "7.7",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -22,7 +22,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "sshbrplus.online",
-            "CheckUser": "http://www.sshbrplus.online:6880/checkUser",
+            "CheckUser": "http://sshbrplus.online:6880/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
