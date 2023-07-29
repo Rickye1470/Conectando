@@ -1,5 +1,5 @@
 {
-    "Version": "7.8",
+    "Version": "7.9",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -33,7 +33,7 @@
     {
 "Name": "VIVO SECURITY PRÉ [00]",
 "FLAG": "vivo",
-"Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+"Payload": "ACL https://1.1.1.1rotate=191.37.149.104;1.0.0.5 HTTP/1.1 [crlf]Host: https://1.1.1.1rotate=191.37.149.104;1.0.0.5[crlf]",
 "SNI": "[app_host]",
 "TlsIP": "[app_host]",
 "ProxyIP": "[app_host]",
