@@ -1,5 +1,5 @@
 {
-    "Version": "7.9",
+    "Version": "7.10",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -78,7 +78,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.166.108",
+      "ProxyIP": "99.84.31.33",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -88,7 +88,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.158.161.49",
+      "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
