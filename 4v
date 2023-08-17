@@ -1,5 +1,5 @@
 {
-    "Version": "7.13",
+    "Version": "7.14",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -88,7 +88,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2f6anchfjds6s.cloudfront.net][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: @canaldotl[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "52.85.213.82",
+      "ProxyIP": "13.33.131.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
