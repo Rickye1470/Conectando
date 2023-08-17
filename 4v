@@ -1,5 +1,5 @@
 {
-    "Version": "7.11",
+    "Version": "7.12",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -84,6 +84,16 @@
     },
     {
       "Name": "VIVO FRONT 2", 
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dominiocloudfront][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: @canaldotl[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO FRONT 3", 
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
