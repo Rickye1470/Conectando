@@ -1,5 +1,5 @@
 {
-    "Version": "7.14",
+    "Version": "7.15",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -75,10 +75,10 @@
     {
       "Name": "VIVO FRONT", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.158.122.48",
+      "ProxyIP": "108.139.166.13",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -95,10 +95,10 @@
     {
       "Name": "VIVO FRONT 3", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.158.161.49",
+      "ProxyIP": "13.227.126.39",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
