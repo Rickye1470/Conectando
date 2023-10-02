@@ -78,7 +78,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.166.13",
+      "ProxyIP": "99.84.37.44",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -88,7 +88,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2f6anchfjds6s.cloudfront.net][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: @canaldotl[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.33.131.6",
+      "ProxyIP": "108.138.64.15",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -98,7 +98,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2f6anchfjds6s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.39",
+      "ProxyIP": "13.226.22.87",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
