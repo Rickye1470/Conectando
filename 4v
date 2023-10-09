@@ -1,5 +1,5 @@
 {
-    "Version": "8.0",
+    "Version": "8.1",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -22,7 +22,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "191.37.149.104",
-            "CheckUser": "http://191.37.149.104:6880/checkUser",
+            "CheckUser": "http://191.37.149.104:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
