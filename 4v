@@ -1,5 +1,5 @@
 {
-    "Version": "7.130",
+    "Version": "8.0",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -21,8 +21,8 @@
             "Name": "Shambala | PLUS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "sshbrplus.online",
-            "CheckUser": "http://sshbrplus.online:6880/checkUser",
+            "ServerIP": "191.37.149.104",
+            "CheckUser": "http://191.37.149.104:6880/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
