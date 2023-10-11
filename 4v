@@ -47,7 +47,7 @@
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },
         {
