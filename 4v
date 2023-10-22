@@ -1,5 +1,5 @@
 {
-    "Version": "8.19",
+    "Version": "8.20",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -43,7 +43,7 @@
         {
             "Name": "VIVO SECURITY PRÉ [01]",
             "FLAG": "vivo",
-            "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+            "Payload": "[split]GET HTTP/1.1[crlf][crlf]HTTP/2: Ua[crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
@@ -66,6 +66,28 @@
             "Name": "VIVO SECURITY PRÉ [03]",
             "FLAG": "vivo",
             "Payload": "PUT / HTTP/1.1[crlf]Host: [host_port]@[rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@InterFlashplus][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@InterFlashplus][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@InterFlashplus][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@InterFlashplus][crlf]Upgrade: websocket[crlf][raw][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
+        {
+            "Name": "VIVO SECURITY PRÉ [04]",
+            "FLAG": "vivo",
+            "Payload": "[split]GET HTTP/1.1[crlf][crlf]HTTP/2: [crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
+        {
+            "Name": "VIVO SECURITY PRÉ [05]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / /\n[delay]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
