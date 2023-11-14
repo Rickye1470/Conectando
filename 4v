@@ -1,5 +1,5 @@
 {
-    "Version": "8.45",
+    "Version": "8.46",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -100,7 +100,7 @@
       "Payload": "GET wss://sshbrplus.online/ HTTP/1.1[lf]Host: sshbrplus.online[lf] Connection: Upgrade[lf]Upgrade: ws[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.7.41",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
