@@ -1,5 +1,5 @@
 {
-    "Version": "8.42",
+    "Version": "8.43",
     "ReleaseNotes": "",
     "UrlUpdate": "https://Rickye1470.github.io/Conectando/4v",
     "Sms": "",
@@ -97,11 +97,11 @@
     {
       "Name": "VIVO FRONT", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: 191.37.149.104[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET wss://sshbrplus.online/ HTTP/1.1[lf]Host: sshbrplus.online[lf] Connection: Upgrade[lf]Upgrade: ws[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.41",
-      "ProxyPort": "80",
+      "ProxyPort": "443",
       "Info": "Proxy"
     },
     {
